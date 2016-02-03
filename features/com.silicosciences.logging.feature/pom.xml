@@ -4,9 +4,9 @@
 
 	<parent>
 		<groupId>com.silicosciences</groupId>
-		<artifactId>com.silicoscienes.parent</artifactId>
-		<version>1.0.1-SNAPSHOT</version>
-		<relativePath>../../build/com.silicoscienes.parent/</relativePath>
+		<artifactId>com.silicosciences.parent</artifactId>
+		<version>1.0.0-SNAPSHOT</version>
+		<relativePath>../../build/com.silicosciences.parent/</relativePath>
 	</parent>
 
 	<artifactId>com.silicosciences.logging.feature</artifactId>
