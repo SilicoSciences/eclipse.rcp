@@ -13,6 +13,10 @@
 
 		<module>../../plugins/com.silicosciences.fragment.log</module>
 		<module>../../features/com.silicosciences.logging.feature</module>
+		<module>../../features/net.sf.kerner.utils.feature</module>
+		<module>../../../net.sf.kerner.utils.rcp</module>
+		<module>../../../net.sf.kerner.utils</module>
+		<module>../../../net.sf.jranges</module>
 
 	</modules>
 
