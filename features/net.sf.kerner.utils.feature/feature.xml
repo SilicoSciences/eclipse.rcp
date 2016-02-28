@@ -43,4 +43,18 @@
          version="0.0.0"
          unpack="false"/>
 
+   <plugin
+         id="net.sf.kerner.utils.collections"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="net.sf.jranges"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
 </feature>
