@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: PRIDE Archive
+Bundle-SymbolicName: com.silicosciences.libs.wrapper.pride.archive;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: com.silicosciences.libs.wrapper.pride.archive.Activator
+Require-Bundle: org.eclipse.core.runtime
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-ActivationPolicy: lazy
+Bundle-ClassPath: libs/web-service-model-0.2.12.jar,
+ .
+Export-Package: uk.ac.ebi.pride.archive.web.service.model.assay,
+ uk.ac.ebi.pride.archive.web.service.model.common,
+ uk.ac.ebi.pride.archive.web.service.model.contact,
+ uk.ac.ebi.pride.archive.web.service.model.file,
+ uk.ac.ebi.pride.archive.web.service.model.peptide,
+ uk.ac.ebi.pride.archive.web.service.model.project,
+ uk.ac.ebi.pride.archive.web.service.model.protein,
+ uk.ac.ebi.pride.archive.web.service.model.spectrum
