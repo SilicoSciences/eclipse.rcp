@@ -12,12 +12,17 @@
 	<modules>
 
 		<module>../../plugins/com.silicosciences.fragment.log</module>
+		<module>../../plugins/com.silicosciences.libs.wrapper.jfreechart</module>
 		<module>../../features/com.silicosciences.logging.feature</module>
 		<module>../../features/net.sf.kerner.utils.feature</module>
 		<module>../../../net.sf.kerner.utils.rcp</module>
 		<module>../../../net.sf.kerner.utils</module>
+		<module>../../../net.sf.kerner.utils.io</module>
 		<module>../../../net.sf.kerner.utils.collections</module>
 		<module>../../../net.sf.jranges</module>
+		<module>../../../net.sf.jtables</module>
+		<module>../../../net.sf.jfasta</module>
+		<module>../../../net.sf.geal</module>
 
 	</modules>
 
